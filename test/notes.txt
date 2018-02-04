@@ -1,1 +1,1 @@
-Notes for Class
+[Notes for Class](./notes.txt)
