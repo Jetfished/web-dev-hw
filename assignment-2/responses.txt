@@ -1,0 +1,13 @@
+responses.txt
+
+- When travelling across the internet file data is reduced to small chunks of the whole file, these are called *packets*. The packets are routed via multiple routes depending on what the best possible path is at the moment.
+
+- The **Domain Name System** or **DNS** is a an internet service which translates *Domain Names* to IP Addresses and vice versa through a **DNS Server**.
+
+- **Cookies** are tiny files stored on user computers which help websites track user activity and information.
+
+- A **URL** at it's simplest is made of three parts:
+
+1. *Protocol* designates mode of communication
+2. *Domain* designates website
+3. *Path* designates the file or directory on the website.
