@@ -1,6 +1,6 @@
 ## *Dr. StrangeGarnish Or How I Learned to Love the BeetCake*
 
-Ideally a page would only have one <head> and one <body> element. I suppose you could have multiple <head> and <body> elements but it might confuse some browsers.
+Ideally a page would only have one head and one body element. I suppose you could have multiple head and body elements but it might confuse some browsers.
 
 Structural elements place content on the page, Semantic elements add meaning but do not affect structure.
 
