@@ -7,4 +7,4 @@ Forms are the informational structure which support the Internet.
 
 I found all of the form making almost as tedious as filling out forms but I'm glad I got this done in time, typical form stuff ...
 
- [Seriously bogged down on an animation project this week.](./images/screenshot.png)
+ ![Seriously bogged down on an animation project this week.](./images/screenshot.png)
