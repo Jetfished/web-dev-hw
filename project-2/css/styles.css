@@ -1,0 +1,39 @@
+body {
+  width:90%;
+  margin: 0 auto;
+  font-family: Georgia, Times, serif;
+  background-color: color= #9ed6c2;
+  padding: 10px;
+}
+li {
+  display: inline;
+  padding: 0.5em;
+  line-height: 1.4em;
+}
+h1, h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  background-color: inherit;
+  letter-spacing: 0.1em;
+}
+p {
+  font-family: Georgia, Times, serif;
+  background-color: inherit;
+
+
+}
+ol {
+  list-style-type: decimal;
+
+}
+.header {
+}
+.step {
+
+}
+.nav {
+
+}
+.button {
+
+}
