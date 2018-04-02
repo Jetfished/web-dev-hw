@@ -85,7 +85,10 @@ ol {
 }
 ul {
   list-style: inside circle;
+}
 
+h1 #header {
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -95,16 +98,14 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.1em;
 }
 
-h1 #header {
-  text-align: center;
-}
+
 p {
   font-family: Georgia, Times, serif;
   background-color: inherit;
 }
 
 #nav, #footer {
-  
+
   padding: 0.5em 0;
   }
 #feature,  {
