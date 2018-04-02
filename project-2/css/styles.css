@@ -12,15 +12,16 @@ body {
   margin: 1%;}
 
 .column1, .column2, .column3, {
-  width:31.3%;
+  width: 31.3%;
   float: left;
-  margin:1%;}
+  margin: 1%;}
 .column3 {margin-right: 0%;}
 
 li {
-  
+
   padding: 0.5em;
   line-height: 1.4em;
+
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Helvetica, Arial, sans-serif;
@@ -37,8 +38,11 @@ ol {
 }
 ul {
   list-style: inside circle;
-}
 
+}
+.nav {
+  li {inline}
+}
 #nav, #footer {
   background-color: #efefef;
   padding: 0.5em 0;
