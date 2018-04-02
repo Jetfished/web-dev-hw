@@ -1,5 +1,5 @@
 background-color: color= #1d202b
-background-image: url("/images/splash.gif");
+background-image: url("./images/splash.gif");
 background-repeat: repeat-x;
 body {
   width:90%;
@@ -16,7 +16,7 @@ body {
   margin: 1%;
 background-color: color= #ccb8a3;
 }
-article {
+div id="article" {
   -webkit-columns: 3 300px;
   -moz-columns: 3 300px;
   columns: 3 300px;
