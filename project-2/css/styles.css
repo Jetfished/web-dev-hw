@@ -1,11 +1,11 @@
-background-color: color= #1d202b
-background-image: url("./images/splash.gif");
+
+background-image: url("/images/splash.gif");
 background-repeat: repeat-x;
 body {
   width:90%;
   margin: 0 auto;
   font-family: Georgia, Times, serif;
-
+  background-color: color= #1d202b
 
 }
 
@@ -16,17 +16,13 @@ body {
   margin: 1%;
 background-color: color= #ccb8a3;
 }
-div id="article" {
+
+.column1, .column2, .column3, {
   -webkit-columns: 3 300px;
   -moz-columns: 3 300px;
   columns: 3 300px;
   -moz-column-fill: auto;
   column-fill: auto;
-}
-.column1, .column2, .column3, {
-  width: 31.3%;
-  float: left;
-  margin: 5%;
 background-color: color= #ccb8a3;
 }
 .column3 {margin-right: 0%;}
