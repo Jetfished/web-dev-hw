@@ -2,21 +2,60 @@ body {
   width:90%;
   margin: 0 auto;
   font-family: Georgia, Times, serif;
-  background-color: color= #9ed6c2;
+  background-color: color= #ffffff;
+  background-image: url("images/splash.gif");
+  background-repeat: repeat-x;
+
 }
 
 #content {
   overflow: auto;}
 
 #nav, #feature, #footer, {
-  margin: 1%;}
+  margin: 1%;
+background-color: color= #9ed6c2;
+}
 
 .column1, .column2, .column3, {
   width: 31.3%;
   float: left;
-  margin: 1%;}
+  margin: 5%;
+background-color: color= #9ed6c2;
+}
 .column3 {margin-right: 0%;}
 
+iframe {
+  align-self: center;
+}
+
+img.align-right {
+  float: right;
+  margin-left: 3%;
+}
+img.align-left {
+  float: left;
+  margin-right: 3%;
+}
+img.xlarge {
+  width: 75%;
+}
+img.large {
+width: 66.6%;
+}
+img.medium {
+width: 31.3%;
+}
+figure {
+  padding: 1em;
+}
+figcaption {
+  padding: 0.5em;
+  line-height: normal;
+}
+ul #nav {
+  display: inline;
+  align: center;
+}
 li {
   padding: 0.5em;
   line-height: 1.4em;
@@ -28,10 +67,7 @@ ul {
   list-style: inside circle;
 
 }
-ul #nav {
-  display: inline;
-  align: center;
-}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
@@ -40,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 #header {
-  align: center;
+  text-align: center;
 }
 p {
   font-family: Georgia, Times, serif;
