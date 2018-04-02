@@ -25,7 +25,7 @@ background-color: color= #9ed6c2;
 .column3 {margin-right: 0%;}
 
 iframe {
-  align-self: center;
+align-content: center;
 }
 
 img.align-right {
@@ -37,6 +37,7 @@ img.align-left {
   margin-right: 3%;
 }
 img.xlarge {
+  align-content: center;
   width: 75%;
 }
 img.large {
