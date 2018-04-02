@@ -18,10 +18,8 @@ body {
 .column3 {margin-right: 0%;}
 
 li {
-
   padding: 0.5em;
   line-height: 1.4em;
-
 }
 ol {
   list-style-type: inside decimal;
@@ -40,14 +38,15 @@ h1, h2, h3, h4, h5, h6 {
   background-color: inherit;
   letter-spacing: 0.1em;
 }
+
+h1 #header {
+  align: center;
+}
 p {
   font-family: Georgia, Times, serif;
   background-color: inherit;
 }
 
-.nav {
-  li {inline}
-}
 #nav, #footer {
   background-color: #efefef;
   padding: 0.5em 0;
