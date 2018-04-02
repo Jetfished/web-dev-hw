@@ -1,10 +1,24 @@
 
 
 body {
-  width:90%;
-  margin: 0 auto;
-  font-family: Georgia, Times, serif;
-  
+    width:90%;
+    margin: 0 auto;
+    font-family: Georgia, Times, serif;
+    table {
+    width: 600px;}
+  th, td, {
+      padding: 7px 10px 10px 10px;}
+  th {
+    text-transform: capitalize;
+    letter-spacing: 1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;}
+  tr:hover {
+    background-color: #999;}
+  .money {
+    text-align: right;}
 
 }
 
@@ -16,7 +30,7 @@ body {
 background-color: color= #ccb8a3;
 }
 
-.column1, .column2, .column3, {
+.article, .column1, .column2, .column3, {
   -webkit-columns: 3 300px;
   -moz-columns: 3 300px;
   columns: 3 300px;
@@ -90,11 +104,11 @@ p {
 }
 
 #nav, #footer {
-  background-color: #efefef;
+  background-color: #ccb8a3;
   padding: 0.5em 0;
   }
-#feature, .article {
+#feature,  {
   height: 10 em;
   margin-bottom: 1em;
-  background-color: #efefef;
+  background-color: #ccb8a3;
 }
