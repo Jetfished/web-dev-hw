@@ -40,6 +40,7 @@ body {
 #circle {
   left: 0px;
   top: 0px;
+  opacity: .075;
   position: absolute;
 }
 
@@ -51,7 +52,7 @@ body {
 #words {
   align-content: center;
   float: none;
-  opacity: .075;
+
 
   font-size: 72px !important;
   font-family: monospace;
