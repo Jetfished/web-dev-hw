@@ -1,0 +1,72 @@
+/**/
+background-color:
+color:
+border:
+opacity:
+width:
+background-color:
+border-radius:
+padding:
+padding-bottom:
+margin: auto;
+margin-bottom:
+font-family:
+text-align:
+font-size:
+font-weight:
+width:
+height:
+position:
+top:
+left:
+right:
+bottom:
+*{
+
+
+}
+
+body {
+  background-color: #336633;
+      }
+
+.content {
+
+
+
+
+}
+
+#circle {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+#triangle {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+#words {
+  align-content: center;
+  float: none;
+  opacity: .075;
+
+  font-size: 72px !important;
+  font-family: monospace;
+  position: relative;
+}
+h1 {
+
+
+  color: rgb(255, 79, 239);
+
+
+}
+h2 {
+
+
+  color: rgb(255, 228, 0);
+
+}
