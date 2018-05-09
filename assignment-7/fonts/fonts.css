@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+
+
+
+@font-face {
+
+font-family: 'EB+Garamond';
+
+src: url('../fonts.nytimes.txt') format('opentype');
+
+font-weight: normal;
+
+font-style: normal;
+
+}
+
+
+
+h1{
+
+  font-family:'Patua+One', sans-serif;
+
+  text-align:center;
+
+}
+
+
+
+
+
+h2{
+
+  font-family:'Source+Serif+Pro',serif;
+
+  text-align: center;
+
+}
+
+
+
+h3{
+
+  font-family:'Source+Serif+Pro',serif;
+
+  text-align: center;
+
+}
+
+
+
+p{
+
+  font-family: 'EB+Garamond', serif;
+
+  font-size: 2em;
+
+}
+
+
+
+/* PSEUDO ELEMENT */
+
+h3{
+
+   font-family: 'Patua+One', cursive;
+
+   font-size: 1.5em;
+
+   font-weight: bolder;
+
+}
+
+h3{
+
+   color: #800080;
+
+}
